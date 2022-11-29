@@ -1,0 +1,448 @@
+1669195936858	geckodriver	INFO	Listening on 127.0.0.1:58192
+1669195940085	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileRRX5Te"
+1669195942330	Marionette	INFO	Marionette enabled
+1669195942351	Marionette	INFO	Listening on port 58206
+Read port: 58206
+1669195942990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileRRX5Te\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669195983002	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669196036908	Marionette	INFO	Stopped listening on port 58206
+1669196570705	geckodriver	INFO	Listening on 127.0.0.1:58961
+1669196573315	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileWs98Ag"
+1669196575455	Marionette	INFO	Marionette enabled
+1669196575461	Marionette	INFO	Listening on port 58973
+Read port: 58973
+1669196575678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileWs98Ag\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669196595778	Marionette	INFO	Stopped listening on port 58973
+[Parent 14120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669197248025	geckodriver	INFO	Listening on 127.0.0.1:59321
+1669197251063	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile02DX7N"
+1669197251747	Marionette	INFO	Marionette enabled
+1669197251752	Marionette	INFO	Listening on port 59333
+Read port: 59333
+1669197251919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile02DX7N\\search.json.mozlz4", (void 0)))
+1669197257047	Marionette	INFO	Stopped listening on port 59333
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1669197663839	geckodriver	INFO	Listening on 127.0.0.1:60071
+1669197666875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileoLkJgB"
+1669197668797	Marionette	INFO	Marionette enabled
+1669197668803	Marionette	INFO	Listening on port 60093
+Read port: 60093
+1669197669045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileoLkJgB\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669197822659	Marionette	INFO	Stopped listening on port 60093
+[Parent 15176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669198051489	geckodriver	INFO	Listening on 127.0.0.1:60587
+1669198054534	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileKojpTc"
+1669198055685	Marionette	INFO	Marionette enabled
+1669198055690	Marionette	INFO	Listening on port 60601
+Read port: 60601
+1669198055869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileKojpTc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669198070513	Marionette	INFO	Stopped listening on port 60601
+[Parent 21732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669198973418	geckodriver	INFO	Listening on 127.0.0.1:60931
+1669198976431	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile2VO44z"
+1669198977020	Marionette	INFO	Marionette enabled
+1669198977026	Marionette	INFO	Listening on port 60943
+Read port: 60943
+1669198977215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile2VO44z\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669198989553	Marionette	INFO	Stopped listening on port 60943
+1669199447806	geckodriver	INFO	Listening on 127.0.0.1:61174
+1669199450927	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileYN33OJ"
+1669199451440	Marionette	INFO	Marionette enabled
+1669199451446	Marionette	INFO	Listening on port 61186
+Read port: 61186
+1669199451627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileYN33OJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669199463175	Marionette	INFO	Stopped listening on port 61186
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1669199964752	geckodriver	INFO	Listening on 127.0.0.1:61444
+1669201708782	geckodriver	INFO	Listening on 127.0.0.1:62547
+1669201711855	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileYK6DDN"
+1669201712316	Marionette	INFO	Marionette enabled
+1669201712322	Marionette	INFO	Listening on port 62559
+Read port: 62559
+1669201712504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileYK6DDN\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+1669202043896	Marionette	INFO	Stopped listening on port 62559
+[Parent 19292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669201856050	Marionette	INFO	Stopped listening on port 62801
+[Parent 23320, IPDL Background] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+[Parent 23320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1669201975549	geckodriver	INFO	Listening on 127.0.0.1:63010
+1669201978601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileIc9qFD"
+1669201980127	Marionette	INFO	Marionette enabled
+1669201980134	Marionette	INFO	Listening on port 63022
+Read port: 63022
+1669201980347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileIc9qFD\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669201995125	Marionette	INFO	Stopped listening on port 63022
+[Parent 21700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 21700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669254467645	geckodriver	INFO	Listening on 127.0.0.1:63327
+1669254470825	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileYvLm3y"
+1669254474581	Marionette	INFO	Marionette enabled
+1669254474589	Marionette	INFO	Listening on port 63343
+Read port: 63343
+1669254475772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileYvLm3y\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:775:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:656:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1037:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:577:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:686:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1037, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1037))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:363:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669255812657	Marionette	INFO	Stopped listening on port 63343
+[Parent 26312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 26312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+la Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileUwJJO5"
+1669255748382	Marionette	INFO	Marionette enabled
+1669255748403	Marionette	INFO	Listening on port 49492
+Read port: 49492
+1669255749064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileUwJJO5\\search.json.mozlz4", (void 0)))
+1669255757332	Marionette	INFO	Stopped listening on port 49492
+1669263283441	geckodriver	INFO	Listening on 127.0.0.1:50128
+1669263286543	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofilefdMBJW"
+1669263288962	Marionette	INFO	Marionette enabled
+1669263288968	Marionette	INFO	Listening on port 50140
+Read port: 50140
+1669263289091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofilefdMBJW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669263302982	Marionette	INFO	Stopped listening on port 50140
+1669263425811	geckodriver	INFO	Listening on 127.0.0.1:50171
+1669263428868	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile0jQzfM"
+1669263429578	Marionette	INFO	Marionette enabled
+1669263429586	Marionette	INFO	Listening on port 50183
+Read port: 50183
+1669263429696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile0jQzfM\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+[Parent 12632, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669263582070	Marionette	INFO	Stopped listening on port 50183
+[Parent 12632, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669265851496	geckodriver	INFO	Listening on 127.0.0.1:51281
+1669265854532	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile9KK0Uo"
+1669265855445	Marionette	INFO	Marionette enabled
+1669265855461	Marionette	INFO	Listening on port 51293
+Read port: 51293
+1669265855742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile9KK0Uo\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669265873215	Marionette	INFO	Stopped listening on port 51293
+[Parent 4828, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669283085156	geckodriver	INFO	Listening on 127.0.0.1:55471
+1669283088175	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileXWbnc1"
+1669283093852	Marionette	INFO	Marionette enabled
+1669283093860	Marionette	INFO	Listening on port 55483
+Read port: 55483
+1669283094722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileXWbnc1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669283114452	Marionette	INFO	Stopped listening on port 55483
+[Parent 14420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 14420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669284570764	geckodriver	INFO	Listening on 127.0.0.1:56261
+1669284573977	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileI0M7I2"
+1669284587859	Marionette	INFO	Marionette enabled
+1669284588154	Marionette	INFO	Listening on port 56290
+Read port: 56290
+Read port: 56290
+1669284592869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileI0M7I2\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669284630625	Marionette	INFO	Stopped listening on port 56290
+[Parent 6560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669284723760	geckodriver	INFO	Listening on 127.0.0.1:56410
+1669284726798	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileGjQb9v"
+1669284728252	Marionette	INFO	Marionette enabled
+1669284728273	Marionette	INFO	Listening on port 56422
+Read port: 56422
+1669284728799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileGjQb9v\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669284742411	Marionette	INFO	Stopped listening on port 56422
+[Parent 8188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669285371781	geckodriver	INFO	Listening on 127.0.0.1:56692
+1669285374820	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileX4a6M1"
+1669285375272	Marionette	INFO	Marionette enabled
+1669285375277	Marionette	INFO	Listening on port 56704
+Read port: 56704
+1669285375444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileX4a6M1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669285386806	Marionette	INFO	Stopped listening on port 56704
+[Parent 13452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669285419786	geckodriver	INFO	Listening on 127.0.0.1:56785
+1669285422840	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileo164bg"
+1669285423226	Marionette	INFO	Marionette enabled
+1669285423231	Marionette	INFO	Listening on port 56797
+Read port: 56797
+1669285423483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileo164bg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669285434302	Marionette	INFO	Stopped listening on port 56797
+1669285883106	geckodriver	INFO	Listening on 127.0.0.1:57034
+1669285886134	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileh79GFL"
+1669285886528	Marionette	INFO	Marionette enabled
+1669285886533	Marionette	INFO	Listening on port 57048
+Read port: 57048
+1669285886719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileh79GFL\\search.json.mozlz4", (void 0)))
+1669285890653	Marionette	INFO	Stopped listening on port 57048
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1669285909766	geckodriver	INFO	Listening on 127.0.0.1:57094
+1669285912847	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofilek2IQAH"
+1669285913271	Marionette	INFO	Marionette enabled
+1669285913277	Marionette	INFO	Listening on port 57108
+Read port: 57108
+1669285913444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofilek2IQAH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286003895	Marionette	INFO	Stopped listening on port 57108
+[Parent 13328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669286107559	geckodriver	INFO	Listening on 127.0.0.1:57358
+1669286110636	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileB5BAPd"
+1669286111032	Marionette	INFO	Marionette enabled
+1669286111037	Marionette	INFO	Listening on port 57370
+Read port: 57370
+1669286111205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileB5BAPd\\search.json.mozlz4", (void 0)))
+1669286115427	Marionette	INFO	Stopped listening on port 57370
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669286133658	geckodriver	INFO	Listening on 127.0.0.1:57421
+1669286136706	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileeMdVK7"
+1669286137095	Marionette	INFO	Marionette enabled
+1669286137100	Marionette	INFO	Listening on port 57435
+Read port: 57435
+1669286137267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileeMdVK7\\search.json.mozlz4", (void 0)))
+1669286141731	Marionette	INFO	Stopped listening on port 57435
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.sys.mjs, line 174: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1669286587575	geckodriver	INFO	Listening on 127.0.0.1:57717
+1669286590630	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileClGHak"
+1669286591029	Marionette	INFO	Marionette enabled
+1669286591035	Marionette	INFO	Listening on port 57729
+Read port: 57729
+1669286591209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileClGHak\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669286602482	Marionette	INFO	Stopped listening on port 57729
+1669287297633	geckodriver	INFO	Listening on 127.0.0.1:57970
+1669287300665	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile5KYi2A"
+1669287301123	Marionette	INFO	Marionette enabled
+1669287301128	Marionette	INFO	Listening on port 57983
+Read port: 57983
+1669287301299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile5KYi2A\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287672749	Marionette	INFO	Stopped listening on port 57983
+[Parent 14856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ette enabled
+1669287436225	Marionette	INFO	Listening on port 58294
+Read port: 58294
+1669287436412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofilemaNfbK\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669287449384	Marionette	INFO	Stopped listening on port 58294
+1669349502792	geckodriver	INFO	Listening on 127.0.0.1:58914
+1669349505985	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileusiHbj"
+1669349508754	Marionette	INFO	Marionette enabled
+1669349508775	Marionette	INFO	Listening on port 58926
+Read port: 58926
+1669349509732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileusiHbj\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669349530889	Marionette	INFO	Stopped listening on port 58926
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 3752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669349647370	geckodriver	INFO	Listening on 127.0.0.1:58994
+1669349650453	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileDzT92q"
+1669349651313	Marionette	INFO	Marionette enabled
+1669349651323	Marionette	INFO	Listening on port 59008
+Read port: 59008
+1669349651702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofileDzT92q\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://client.px-cloud.net/PXz6gVcARw/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/offers/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.cleartrip.com/offers/sites/default/files/js/js_Z-hXFe2yRoXw-FWKVIgA3lAwc6TPkEWf8Stuu94AVAk.js, line 84: TypeError: jQuery(...).datepicker is not a function
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1669349929937	Marionette	INFO	Stopped listening on port 59008
+[Parent 1844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+59313
+Read port: 59313
+1669349791691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yogit\\AppData\\Local\\Temp\\rust_mozprofile6yMzli\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.cleartrip.com/, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 16260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669349812657	Marionette	INFO	Stopped listening on port 59313
